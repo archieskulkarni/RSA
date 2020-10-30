@@ -1,3 +1,5 @@
+#This code is primarily for my own understanding of RSA Encryption and is in noway intended to be used for production environments
+
 import random
 
 def textToInt(w):
